@@ -1,2 +1,2 @@
 # Inventory-UI
-Video demonstration: https://drive.google.com/file/d/1968_87g-QKD1EJV9Jr1JyxUSCTIlbrvg/view?usp=sharing
+Video demonstration: https://drive.google.com/file/d/1uDnoleYLSrdMXrCZ6S9YbRIAo1zn-2to/view?usp=sharing
